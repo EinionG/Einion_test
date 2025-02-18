@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://EinionG.github.io/Einion_test/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in EinionG/Einion_test project"
+        ]
+    },
+    "items": []
+}
